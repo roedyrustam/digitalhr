@@ -19,7 +19,7 @@ class UserTableSeeder extends Seeder
         User::create([
             'name' => 'Admin',
             'email' => 'dev@sidepe.com',
-            'username' => 'admin123',
+            'username' => 'rudyasho',
             'password' => bcrypt('cobasaja'),
             'address' => 'Makassar, South Sulawesi',
             'avatar' => null,
