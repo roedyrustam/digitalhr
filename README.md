@@ -1,6 +1,6 @@
 # Digital HR For Bussiness dan Governance
 
-# Requirements#
+# Requirements
 
 Before starting installation, make sure, you have following things
 Have a web hosting to store admin panel files and MySQL Database to run this admin panel, web hosting that you use must have the following requirements :
